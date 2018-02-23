@@ -1,0 +1,35 @@
+Het enzym is glucose-6-fosfaat isomerase; dit is blokje 5.3.1.9 in het proces
+Proces mens
+
+http://www.genome.jp/kegg-bin/show_pathway?hsa00010
+
+enzym mens
+
+http://www.genome.jp/dbget-bin/www_bget?hsa:2821
+
+proces plant(soybean)
+
+http://www.genome.jp/kegg-bin/show_pathway?gmx00010
+
+enzym plant
+
+http://www.genome.jp/dbget-bin/www_bget?gmx:100791285+gmx:100791496+gmx:100798134+gmx:100807719+gmx:100809452+gmx:100814915+gmx:100818441
+
+proces bacterie 1
+
+http://www.genome.jp/kegg-bin/show_pathway?elr00010
+
+enzym bacterie 1
+
+http://www.genome.jp/dbget-bin/www_bget?elr:ECO55CA74_23205
+
+proces bacterie 2
+
+http://www.genome.jp/kegg-bin/show_pathway?sey00010
+
+enzym bacterie 2
+
+http://www.genome.jp/dbget-bin/www_bget?sey:SL1344_2741+sey:SL1344_4157
+
+
+
